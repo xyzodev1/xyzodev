@@ -1,4 +1,4 @@
 module.exports = {
-  Token_Kamu_sayang: "7728435138:AAGfgYpNDI1NsYjtQeEMtaMpOx8zDp1kyvU",
-    ownertoken: ['7170063600'], // ID
+  Token_Kamu_sayang: "7920364361:AAEUOsVU8ne7-Rsu2UAh1Okr6v-4UbrV8k4",
+    ownertoken: ['1759698180'], // ID
 };
